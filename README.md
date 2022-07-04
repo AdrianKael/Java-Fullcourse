@@ -1,6 +1,14 @@
 # Java-Fullcourse
 Steps followed to learn Java from Zero
  1. Introduction of Java
+    - History of Java
+    - IDEs
+    - Hello world.java
+    - Types of Primitive Data
+    - Types of non primitive Data and strings
+    - Constansts
+    - Inputs Outputs in console
+    - Inputs Outputs on JOptionPane
  2. Operators and Expressions
  3. Conditions
  4. Cycles and Loops
