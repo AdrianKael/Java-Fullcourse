@@ -1,12 +1,12 @@
-# Java-Fullcourse
+# Java Full-course
 Steps followed to learn Java from Zero
  1. Introduction of Java
     - History of Java
     - IDEs
     - Hello world.java
     - Types of Primitive Data
-    - Types of non primitive Data and strings
-    - Constansts
+    - Types of non-primitive Data and strings
+    - Constants
     - Inputs Outputs in console
     - Inputs Outputs on JOptionPane
  2. Operators and Expressions
@@ -14,8 +14,8 @@ Steps followed to learn Java from Zero
  4. Cycles and Loops
  5. Arrays
  6. Sorts
- 7. Searchs
- 8. Matrixes
+ 7. Searches
+ 8. Matrices
  9. POO
  10. Project Airport - POO
  11. API Java
@@ -23,4 +23,4 @@ Steps followed to learn Java from Zero
  13. UI Graphic Interfaces
  14. Files
  15. Data Base in MySQL
- 16. DB MySQL Conexion with Java
+ 16. DB MySQL Connexion with Java
